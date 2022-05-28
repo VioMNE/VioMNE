@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viomne&label=Profile%20views&color=0e75b6&style=flat" alt="viomne" /> </p>
 
-- 🔭 I’m currently working on **my education in web development at HackYourFuture**
+- 🔭 I’m currently working on **my education on web development at HackYourFuture**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, ect.**
 
