@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Violeta Pavetic</h1>
 <h3 align="center">future frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viomne&label=Profile%20views&color=0e75b6&style=flat" alt="viomne" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viomne&label=Profile%20views&color=0e75b6&style=flat" alt="viomne" align="left"> <img src="https://www.codewars.com/users/VioMNE/badges/micro" alt="viomne" /> </p>
 
 - 🔭 I’m currently working on **my education on web development at HackYourFuture**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, ect.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, React.**
+
+- 📫 How to reach me: **violeta.pavetic@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
