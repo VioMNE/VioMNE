@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Violeta Pavetic</h1>
-<h3 align="center">future frontend developer</h3>
+<h3 align="center">frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viomne&label=Profile%20views&color=0e75b6&style=flat" alt="viomne" align="left"> <img src="https://www.codewars.com/users/VioMNE/badges/micro" alt="viomne" /> </p>
 
