@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Violeta Pavetic</h1>
 <h3 align="center">frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viomne&label=Profile%20views&color=0e75b6&style=flat" alt="viomne" align="left"> <img src="https://www.codewars.com/users/VioMNE/badges/micro" alt="viomne" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viomne&label=Profile%20views&color=0e75b6&style=flat" alt="viomne" align="left"> <img src="https://www.codewars.com/users/VioMNE/badges/micro" alt="viomne" /> </p>
 
 - 🔭 I’m currently working on **my education on web development at HackYourFuture**
 
